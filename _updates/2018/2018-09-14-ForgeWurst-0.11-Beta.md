@@ -1,5 +1,5 @@
 ---
-title: ForgeWurst 0.11 Beta - AntiSpam, Repair Mode
+title: Forge Wurst 0.11 Beta - AntiSpam, Repair Mode
 wurst-version: "0.11"
 minecraft-versions:
   - "1.12.2"
